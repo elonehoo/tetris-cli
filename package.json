@@ -5,6 +5,10 @@
   "author": "Elone Hoo <huchengyea@163.com>",
   "license": "MIT",
   "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elonehoo/tetris-cli"
+  },
   "bin": {
     "tetris": "./index.ts"
   },
