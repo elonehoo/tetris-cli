@@ -1,6 +1,6 @@
 {
   "name": "@elonehoo/tetris-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "node cli tetris",
   "author": "Elone Hoo <huchengyea@163.com>",
   "license": "MIT",
