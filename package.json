@@ -1,0 +1,17 @@
+{
+  "name": "tetris",
+  "version": "0.0.1",
+  "description": "node cli tetris",
+  "author": "Elone Hoo <huchengyea@163.com>",
+  "license": "MIT",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.23",
+    "clivas": "^0.2.0",
+    "keypress": "^0.2.1",
+    "typescript": "^4.6.3"
+  }
+}
