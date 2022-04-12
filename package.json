@@ -1,12 +1,13 @@
 {
-  "name": "tetris",
+  "name": "@elonehoo/tetris-cli",
   "version": "0.0.1",
   "description": "node cli tetris",
   "author": "Elone Hoo <huchengyea@163.com>",
   "license": "MIT",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish --access public",
+    "dev": "node index.ts"
   },
   "dependencies": {
     "@types/node": "^17.0.23",
