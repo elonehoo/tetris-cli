@@ -1,21 +1,21 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': ^18.16.0
+  '@types/node': ^18.16.3
   clivas: ^0.2.0
   keypress: ^0.2.1
   typescript: ^5.0.4
 
 dependencies:
-  '@types/node': 18.16.0
+  '@types/node': 18.16.3
   clivas: 0.2.0
   keypress: 0.2.1
   typescript: 5.0.4
 
 packages:
 
-  /@types/node/18.16.0:
-    resolution: {integrity: sha512-BsAaKhB+7X+H4GnSjGhJG9Qi8Tw+inU9nJDwmD5CgOmBLEI6ArdhikpLX7DjbjDRDTbqZzU2LSQNZg8WGPiSZQ==}
+  /@types/node/18.16.3:
+    resolution: {integrity: sha512-OPs5WnnT1xkCBiuQrZA4+YAV4HEJejmHneyraIaxsbev5yCEr6KMwINNFP9wQeFIw8FWcoTqF3vQsa5CDaI+8Q==}
     dev: false
 
   /clivas/0.2.0:
