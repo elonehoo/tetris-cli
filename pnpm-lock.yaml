@@ -1,21 +1,21 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/node': ^18.17.9
+  '@types/node': ^18.18.1
   clivas: ^0.2.0
   keypress: ^0.2.1
-  typescript: ^5.1.6
+  typescript: ^5.2.2
 
 dependencies:
-  '@types/node': 18.17.9
+  '@types/node': 18.18.1
   clivas: 0.2.0
   keypress: 0.2.1
-  typescript: 5.1.6
+  typescript: 5.2.2
 
 packages:
 
-  /@types/node/18.17.9:
-    resolution: {integrity: sha512-fxaKquqYcPOGwE7tC1anJaPJ0GHyOVzfA2oUoXECjBjrtsIz4YJvtNYsq8LUcjEUehEF+jGpx8Z+lFrtT6z0tg==}
+  /@types/node/18.18.1:
+    resolution: {integrity: sha512-3G42sxmm0fF2+Vtb9TJQpnjmP+uKlWvFa8KoEGquh4gqRmoUG/N0ufuhikw6HEsdG2G2oIKhog1GCTfz9v5NdQ==}
     dev: false
 
   /clivas/0.2.0:
@@ -26,8 +26,8 @@ packages:
     resolution: {integrity: sha1-HoBFQlABjbrUw/6USX1uZ7YmnHc=}
     dev: false
 
-  /typescript/5.1.6:
-    resolution: {integrity: sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==}
+  /typescript/5.2.2:
+    resolution: {integrity: sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: false
