@@ -17,7 +17,7 @@
     "dev": "node index.ts"
   },
   "dependencies": {
-    "@types/node": "^18.19.3",
+    "@types/node": "^18.19.6",
     "clivas": "^0.2.0",
     "keypress": "^0.2.1",
     "typescript": "^5.3.3"
