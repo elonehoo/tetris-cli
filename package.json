@@ -20,6 +20,6 @@
     "@types/node": "^22.10.0",
     "clivas": "^0.2.0",
     "keypress": "^0.2.1",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   }
 }
