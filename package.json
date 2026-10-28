@@ -4,7 +4,7 @@
   "description": "node cli tetris",
   "author": "Elone Hoo <huchengyea@163.com>",
   "license": "MIT",
-  "packageManager": "pnpm@12.14.0",
+  "packageManager": "pnpm@12.16.1",
   "main": "index.ts",
   "repository": {
     "type": "git",
